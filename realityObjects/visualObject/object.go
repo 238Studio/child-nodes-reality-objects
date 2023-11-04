@@ -1,6 +1,6 @@
 package visualObject
 
-import "github.com/UniversalRobotDriveTeam/child-nodes-middle/robotBasicAPI/realityObjects/space"
+import "github.com/UniversalRobotDriveTeam/child-nodes-reality-objects/realityObjects/space"
 
 type Object struct {
 	//唯一的物品ID，标记一个现实中的物体
