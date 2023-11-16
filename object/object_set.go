@@ -1,4 +1,4 @@
-package visualObject
+package object
 
 type objectSet struct {
 	objects            map[string]Object //根据物体唯一ID对object进行索引
