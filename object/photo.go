@@ -1,4 +1,4 @@
-package visualObject
+package object
 
 type Photo struct {
 	//二维数组指针
